@@ -33,7 +33,7 @@ Estruturação do README: Este arquivo README.md foi montado seguindo o template
 O principal resultado deste projeto é o e-book "O Amanhã Algorítmico: A Nova Era da Criatividade Generativa", que oferece uma análise aprofundada sobre o tema. A capa do e-book, gerada por IA, complementa visualmente o conteúdo, transmitindo a essência futurista e colaborativa da criatividade na era da inteligência artificial.
 
 Capa do E-book
-
+![Capa do E-Book](capa_ebook_ia.png)
 
 
 
